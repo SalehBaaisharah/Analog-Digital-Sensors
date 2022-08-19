@@ -22,5 +22,5 @@ Using [Tinkerkad](www.tinkercad.com)
 * Jumper Wires
 * IR remote
 
-
+#### IR receiver connections
 ![image](https://user-images.githubusercontent.com/108189963/185702255-325c9280-1654-44a9-a37c-35bf08f636e6.png)
